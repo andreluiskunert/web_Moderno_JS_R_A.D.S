@@ -1,0 +1,5 @@
+console.log("Introducao")
+console.log("Passo 1ª")
+console.log("Passo 2ª")
+console.log("Passo 3ª")
+console.log("The End")
